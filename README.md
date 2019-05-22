@@ -12,7 +12,7 @@ npm run serve
 
 ### Compiles and minifies for production
 ```
-npm run build 1
+npm run build version 1.0 这是版本1.0
 ```
 
 ### Run your tests
